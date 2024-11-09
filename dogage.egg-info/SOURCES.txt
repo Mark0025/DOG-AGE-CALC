@@ -1,0 +1,7 @@
+main.py
+setup.py
+dogage.egg-info/PKG-INFO
+dogage.egg-info/SOURCES.txt
+dogage.egg-info/dependency_links.txt
+dogage.egg-info/entry_points.txt
+dogage.egg-info/top_level.txt

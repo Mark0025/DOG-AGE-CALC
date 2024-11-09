@@ -1,0 +1,2 @@
+[console_scripts]
+dogage = main:main
