@@ -1,5 +1,7 @@
 # Dog Age Calculator
 
+A fun app i used to teach my girls basic pyhon 
+
 The Dog Age Calculator is a user-friendly command-line application designed to help pet owners determine their dog's age in dog years. This tool uses a specific formula to convert human years to dog years, providing a more accurate representation of your dog's age.
 
 ## Features
