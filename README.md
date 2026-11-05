@@ -1,5 +1,11 @@
 # Dog Age Calculator
 
+## About
+- **What it is:** A small command-line program that converts a dog's age into dog years, made to teach Mark's daughters basic Python.
+- **Business:** family
+- **Status:** inactive since 2025-03
+- **Source:** agent research 2026-11-04
+
 A fun app i used to teach my girls basic pyhon 
 
 The Dog Age Calculator is a user-friendly command-line application designed to help pet owners determine their dog's age in dog years. This tool uses a specific formula to convert human years to dog years, providing a more accurate representation of your dog's age.
